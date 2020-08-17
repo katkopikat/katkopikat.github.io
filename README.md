@@ -1,2 +1,2 @@
 # katkopikat.github.io
-Interior Store 
+[Interior Store] (katkopikat.github.io/interior_store/)
